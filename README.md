@@ -1,9 +1,18 @@
- ![My github stats 😉](https://github-readme-stats.vercel.app/api?username=longo-andrea)
+# Hi, I'm Andrea 👋
 
-# Contacts
-You can find me on: 
+I'm a frontend developer who shares his coding journey
 
-- Webpage: [andreawdev.com](http://www.andreawdev.com/)
-- Instagram: [@andrea.wdev](https://www.instagram.com/andrea.wdev/)
-- Email: [longoandrea.dev@gmail.com](mailto:longoandrea.dev@gmail.com)
-- Medium: [longoandrea.dev@gmail.com](https://medium.com/@longoandrea.dev)
+# You can find me on
+
+👉 **webpage**: [andreawdev.com](http://www.andreawdev.com/) <br />
+👉 **instagram**: [@andrea.wdev](https://www.instagram.com/andrea.wdev/) <br />
+👉 **email**: [longoandrea.dev@gmail.com](mailto:longoandrea.dev@gmail.com) <br />
+👉 **dev.to**: [longoandrea](https://dev.to/longoandrea) <br />
+
+![My github stats 😉](https://github-readme-stats.vercel.app/api?username=longo-andrea&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longo-andrea&layout=compact&theme=dark)](https://github.com/longo-andrea/github-readme-stats)
+
+# Articles
+
+📕 ***[How to get organized with Notion](https://dev.to/longoandrea/how-to-get-organized-with-notion-kh2)*** <br />
