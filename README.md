@@ -9,10 +9,16 @@ I'm a frontend developer who shares his coding journey
 👉 **email**: [longoandrea.dev@gmail.com](mailto:longoandrea.dev@gmail.com) <br />
 👉 **dev.to**: [longoandrea](https://dev.to/longoandrea) <br />
 
-![My github stats 😉](https://github-readme-stats.vercel.app/api?username=longo-andrea&show_icons=true&theme=dark)
+# Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longo-andrea&layout=compact&theme=dark)](https://github.com/longo-andrea/github-readme-stats)
+<a href="https://github.com/longo-andrea/longo-andrea">
+  <img align="start" src="https://github-readme-stats.vercel.app/api?username=longo-andrea&theme=dark" alt="longo-andrea's GitHub Stats" />
+</a>
 
+<a href="https://github.com/longo-andrea/longo-andrea">
+   <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longo-andrea&theme=dark&langs_count=3" alt="longo-andrea's GitHub Stats" />
+</a>
+  
 # Articles
 
 📕 ***[How to get organized with Notion](https://dev.to/longoandrea/how-to-get-organized-with-notion-kh2)*** <br />
