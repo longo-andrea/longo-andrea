@@ -15,9 +15,11 @@
 </p>
 
 <h2 align="center">🏅 Stats</h2>
-<a href="https://github.com/longo-andrea/longo-andrea" align="center">
-  <img align="start" src="https://github-readme-stats.vercel.app/api?username=longo-andrea" alt="longo-andrea's GitHub Stats" />
-</a>
+<p align="center">
+  <a href="https://github.com/longo-andrea/longo-andrea" align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=longo-andrea" alt="longo-andrea's GitHub Stats" />
+  </a>
+</p>
   
   
 <h2 align="center">📚 Articles</h2>
