@@ -23,6 +23,13 @@
   
   
 <h2 align="center">📚 Articles</h2>
-
-📕 ***[How does it work Vue2 reactivity system?](https://dev.to/longoandrea/how-does-it-work-vue2-reactivity-system-3afg)*** <br />
-📕 ***[How to get organized with Notion](https://dev.to/longoandrea/how-to-get-organized-with-notion-kh2)*** <br />
+<p align="center">
+  <a href="https://github.com/longo-andrea/longo-andrea" align="center">
+    <strong>📕 How does it work Vue2 reactivity system?</strong>
+  </a>
+</p>
+<p align="center">
+  <a href="https://dev.to/longoandrea/how-to-get-organized-with-notion-kh2" align="center">
+    <strong>📕 How to get organized with Notion</strong>
+  </a>
+</p>
