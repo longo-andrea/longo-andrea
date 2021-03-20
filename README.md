@@ -24,7 +24,7 @@
   
 <h2 align="center">📚 Articles</h2>
 <p align="center">
-  <a href="https://github.com/longo-andrea/longo-andrea" align="center">
+  <a href="https://dev.to/longoandrea/how-does-it-work-vue2-reactivity-system-3afg" align="center">
     <strong>📕 How does it work Vue2 reactivity system?</strong>
   </a>
 </p>
