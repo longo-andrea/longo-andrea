@@ -2,6 +2,8 @@
 
 ### 👋 Hi, I'm Andrea
 
+I'm a passionate Frontend Developer, you can find me on:
+
 📸 [Instagram](https://www.instagram.com/im.longo/)
   
 🐦 [Twitter](https://twitter.com/andrealongo96)
