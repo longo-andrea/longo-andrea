@@ -10,3 +10,7 @@ I'm a passionate Frontend Developer. Find me on:
 ✉️ <a href="mailto:longoandrea1996@gmail.com">Mail</a> •
 📄 [DevTo](https://dev.to/longoandrea)
 
+
+# Articles
+
+- [Vue component's props quirks while working with TypeScript](https://dev.to/longoandrea/vue-components-props-quirks-while-working-with-typescript-5doo)
