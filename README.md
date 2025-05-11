@@ -10,6 +10,8 @@
 [<img align="left" alt="Andrea Longo | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/dev-dot-to.svg" />][devto]
 
 
+<br />
+
 ### 📕 Latest Blog Posts
 
 - [Vue component's props quirks while working with TypeScript](https://dev.to/longoandrea/vue-components-props-quirks-while-working-with-typescript-5doo)
